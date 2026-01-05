@@ -20,6 +20,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
+- Create Domain controller and separate workstation in Azure
 - Login into Domain controller and Install Active Directory
 - Create a Domain Admin User within the Domain
 - Join client-1 to the domain name (mydomain.com as example)
