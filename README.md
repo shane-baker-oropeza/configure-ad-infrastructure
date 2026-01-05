@@ -91,8 +91,7 @@ Remote Desktop (RDP) into DC-1 and disable the Windows Firewall to ensure it can
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3: Client Machine (Client-1) Setup
-Create a Virtual Machine named Client-1 running Windows 10.  Ensure Client-1 is placed in the same region and Virtual Network as DC-1.
+Step 3: Client Machine (Client-1) Setup.  Create a Virtual Machine named Client-1 running Windows 10.  Ensure Client-1 is placed in the same region and Virtual Network as DC-1.
 In the Azure Portal, update Client-1’s DNS settings to point directly to DC-1’s Private IP address.  Restart Client-1 from the portal to apply the DNS changes.
 </p>
 <br />
