@@ -234,13 +234,6 @@ Remote Desktop (RDP) into DC-1 and disable the Windows Firewall to ensure it can
 <img width="432" height="469" alt="Screenshot 2026-01-04 190545" src="https://github.com/user-attachments/assets/88135c16-a3c4-4931-b20e-a05f14a3872b" />
 
 </p>
-<p>
-
-<p>
-<img width="440" height="472" alt="Screenshot 2026-01-04 190552" src="https://github.com/user-attachments/assets/d7630479-dfcf-4118-b787-11226d3989de" />
-
-</p>
-<p>
 
 <p>
 <img width="444" height="607" alt="Screenshot 2026-01-04 190610" src="https://github.com/user-attachments/assets/e775b832-25ae-4586-99d6-31c3a1359318" />
