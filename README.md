@@ -334,15 +334,6 @@ In the Azure Portal, update Client-1’s DNS settings to point directly to DC-1�
 </p>
 <p> 
 
-<p>
-<img width="1525" height="630" alt="Screenshot 2026-01-04 191027" src="https://github.com/user-attachments/assets/0ba6d4e7-1049-422f-adcb-8ba58409d0be" />
-
-</p>
-<p>
-
-<p>
-<img width="952" height="853" alt="Screenshot 2026-01-04 191118" src="https://github.com/user-attachments/assets/1a7d47dd-0f9a-4b35-9333-06fa79378f1b" />
-
 <h3>Step 4: Connectivity Verification: </h3> 
   
 Log into Client-1.  Open a command prompt and ping DC-1’s private IP address to ensure the connection is successful.
@@ -351,20 +342,65 @@ Open PowerShell and run ipconfig /all to confirm that the DNS Server list accura
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1525" height="630" alt="Screenshot 2026-01-04 191027" src="https://github.com/user-attachments/assets/2d4de608-30f9-4c6a-b190-4d1aed8d21c5" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+ <p>
+<img width="952" height="853" alt="Screenshot 2026-01-04 191118" src="https://github.com/user-attachments/assets/6c348323-02a5-456f-aa90-4636b47cab6e" />
+
 </p>
-<br />
+<p>
+
+ <p>
+<img width="425" height="264" alt="Screenshot 2026-01-04 191209" src="https://github.com/user-attachments/assets/b396d5c9-f5f0-47de-8fe7-aa66f15d66a8" />
+
+</p>
+<p>
+
+<p>
+<img width="477" height="413" alt="Screenshot 2026-01-04 191246" src="https://github.com/user-attachments/assets/5a45f875-a14c-4a6f-92b7-34e9619ed4fc" />
+
+</p>
+<p>
+
+<p>
+<img width="1130" height="839" alt="Screenshot 2026-01-04 191441" src="https://github.com/user-attachments/assets/546a4f6a-7e78-4e24-8d15-e96059a3e523" />
+
+</p>
+<p>
+
+ <p>
+<img width="836" height="685" alt="Screenshot 2026-01-04 191527" src="https://github.com/user-attachments/assets/a07fc4a6-3d22-4b5c-aab0-51188197703f" />
+
+</p>
+<p> 
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+ <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+ <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
