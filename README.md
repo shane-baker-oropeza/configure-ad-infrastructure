@@ -87,37 +87,44 @@ Remote Desktop (RDP) into DC-1 and disable the Windows Firewall to ensure it can
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="834" height="812" alt="Screenshot 2026-01-04 184332" src="https://github.com/user-attachments/assets/36a2f91d-948b-4355-b855-b98dabb0ce87" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1200" height="834" alt="Screenshot 2026-01-04 184407" src="https://github.com/user-attachments/assets/a6411367-a5f0-42f7-b78e-eb3d2449a8d8" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1115" height="841" alt="Screenshot 2026-01-04 184438" src="https://github.com/user-attachments/assets/47700a25-2da4-411e-8631-a896b22d1ee6" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="923" height="851" alt="Screenshot 2026-01-04 184755" src="https://github.com/user-attachments/assets/7bfc93af-da64-45b7-bd71-d970cca4b05b" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="855" height="703" alt="Screenshot 2026-01-04 184822" src="https://github.com/user-attachments/assets/ac521881-fdef-41ec-bac0-397b4cead842" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="955" height="851" alt="Screenshot 2026-01-04 185120" src="https://github.com/user-attachments/assets/91135471-06b8-421b-9eda-ee4a414c1845" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="984" height="861" alt="Screenshot 2026-01-04 185144" src="https://github.com/user-attachments/assets/d1727322-12e4-44de-a27d-dfe703b4d605" />
+
 </p>
 <p>
 
