@@ -255,9 +255,94 @@ In the Azure Portal, update Client-1’s DNS settings to point directly to DC-1�
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1173" height="837" alt="Screenshot 2026-01-04 183509" src="https://github.com/user-attachments/assets/2752b5a3-b320-4fbb-bd42-1cd2a0d540f2" />
+
 </p>
 <p>
+
+<p>
+<img width="924" height="853" alt="Screenshot 2026-01-04 185256" src="https://github.com/user-attachments/assets/8f4c8cf0-f4f0-4895-a747-b1dff817ada6" />
+
+</p>
+<p>
+
+<p>
+<img width="941" height="855" alt="Screenshot 2026-01-04 185338" src="https://github.com/user-attachments/assets/074c88e4-c047-40f5-9100-6d0635ab6b76" />
+
+</p>
+<p>
+
+<p>
+<img width="871" height="830" alt="Screenshot 2026-01-04 185413" src="https://github.com/user-attachments/assets/4c94d97d-dd24-4d4e-81a1-87f447a53fdc" />
+
+</p>
+<p>
+
+<p>
+<img width="799" height="791" alt="Screenshot 2026-01-04 185430" src="https://github.com/user-attachments/assets/0b1ab03c-18a4-4e1a-9fcf-5037332c5015" />
+
+</p>
+<p>
+
+<p>
+<img width="994" height="854" alt="Screenshot 2026-01-04 185452" src="https://github.com/user-attachments/assets/aeebcd2d-f2a7-4992-bd42-d0f224711aff" />
+
+</p>
+<p>
+
+<p>
+<img width="1252" height="853" alt="Screenshot 2026-01-04 190746" src="https://github.com/user-attachments/assets/c39602b4-aa19-4b76-87f8-4aa4da3de357" />
+
+</p>
+<p>
+
+<p>
+<img width="1169" height="830" alt="Screenshot 2026-01-04 190805" src="https://github.com/user-attachments/assets/f781cbb5-67eb-4bef-ac64-cabe77389815" />
+
+</p>
+<p>
+
+<p>
+<img width="1242" height="836" alt="Screenshot 2026-01-04 190813" src="https://github.com/user-attachments/assets/dd9a4d7d-dd5e-468f-8350-99fcb4d4a28c" />
+
+</p>
+<p> 
+
+<p>
+<img width="1221" height="869" alt="Screenshot 2026-01-04 190839" src="https://github.com/user-attachments/assets/71587f54-e18e-4204-a130-321bb5348744" />
+
+</p>
+<p>  
+
+
+<p>
+<img width="1227" height="800" alt="Screenshot 2026-01-04 190857" src="https://github.com/user-attachments/assets/860898e0-7bf2-4f8b-9f99-234bef35a13b" />
+
+</p>
+<p>  
+
+
+<p>
+<img width="1267" height="690" alt="Screenshot 2026-01-04 190906" src="https://github.com/user-attachments/assets/97db786c-5df1-44d0-bea3-9217e200c379" />
+
+</p>
+<p>  
+
+<p>
+<img width="1268" height="678" alt="Screenshot 2026-01-04 190930" src="https://github.com/user-attachments/assets/2e73c48a-052a-4900-a98b-a05c6f8f9992" />
+
+</p>
+<p> 
+
+<p>
+<img width="1525" height="630" alt="Screenshot 2026-01-04 191027" src="https://github.com/user-attachments/assets/0ba6d4e7-1049-422f-adcb-8ba58409d0be" />
+
+</p>
+<p>
+
+<p>
+<img width="952" height="853" alt="Screenshot 2026-01-04 191118" src="https://github.com/user-attachments/assets/1a7d47dd-0f9a-4b35-9333-06fa79378f1b" />
+
 <h3>Step 4: Connectivity Verification: </h3> 
   
 Log into Client-1.  Open a command prompt and ping DC-1’s private IP address to ensure the connection is successful.
