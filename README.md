@@ -395,6 +395,16 @@ Open PowerShell and run ipconfig /all to confirm that the DNS Server list accura
 <p>
 
 <p>
+
+<h3>Step 5: Verify DNS Server: </h3>  
+The output for the DNS settings should show DC-1's private IP address
+
+In Powershell, type in ipconfig /all
+You should see the DNS servers IP should be set to 10.0.0.4 (DC-1's private IP address)
+</p>
+<br />
+
+<p>
 <img width="825" height="594" alt="Screenshot 2026-01-04 191817" src="https://github.com/user-attachments/assets/89560c08-821d-4228-9450-ba97ea63a35f" />
 
 </p>
