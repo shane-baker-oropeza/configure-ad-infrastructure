@@ -78,10 +78,6 @@ Create a Virtual Network (VNet) and a Subnet to allow communication between your
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
 <h3>Step 2: Domain Controller (DC-1) Setup: </h3>
   
 Create a Virtual Machine named DC-1 running Windows Server 2022.
