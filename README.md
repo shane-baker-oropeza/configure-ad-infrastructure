@@ -38,43 +38,53 @@ Create a Virtual Network (VNet) and a Subnet to allow communication between your
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="611" height="617" alt="Screenshot 2026-01-04 183833" src="https://github.com/user-attachments/assets/418cd945-7982-4edb-ad31-947ebdc66e1c" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="950" height="544" alt="Screenshot 2026-01-04 183850" src="https://github.com/user-attachments/assets/d3094c0e-1da3-46d9-9c91-31547418b7d8" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="767" height="868" alt="Screenshot 2026-01-04 183948" src="https://github.com/user-attachments/assets/5e3686c9-f6a8-46cb-9435-f12bfe2368e9" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="757" height="811" alt="Screenshot 2026-01-04 184054" src="https://github.com/user-attachments/assets/0753413e-c7e1-421f-b62a-e6cdce3b126c" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1214" height="653" alt="Screenshot 2026-01-04 184127" src="https://github.com/user-attachments/assets/0c2004b2-da49-4e2e-b79d-ed70e26127f3" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="840" height="872" alt="Screenshot 2026-01-04 184204" src="https://github.com/user-attachments/assets/cded3f90-2412-42b9-b1bf-3a931165ab28" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="839" height="853" alt="Screenshot 2026-01-04 184222" src="https://github.com/user-attachments/assets/5aad9448-4c71-4caf-8dd5-6f34cff81d75" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="641" height="860" alt="Screenshot 2026-01-04 184249" src="https://github.com/user-attachments/assets/7e72df22-abae-4cc1-a154-21b56867eaf6" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="834" height="812" alt="Screenshot 2026-01-04 184332" src="https://github.com/user-attachments/assets/bbd61a59-0faf-4d04-b5da-022e5dcaf6da" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1200" height="834" alt="Screenshot 2026-01-04 184407" src="https://github.com/user-attachments/assets/2243577a-a43b-4bca-b434-59cfa7ef2361" />
+
 </p>
 
 <p>
@@ -94,6 +104,13 @@ Remote Desktop (RDP) into DC-1 and disable the Windows Firewall to ensure it can
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  
 <h3>Step 3: Client Machine (Client-1) Setup: </h3>
   
 Create a Virtual Machine named Client-1 running Windows 10.  Ensure Client-1 is placed in the same region and Virtual Network as DC-1.
