@@ -399,8 +399,8 @@ Open PowerShell and run ipconfig /all to confirm that the DNS Server list accura
 <h3>Step 5: Verify DNS Server: </h3>  
 The output for the DNS settings should show DC-1's private IP address
 
-In Powershell, type in ipconfig /all
-You should see the DNS servers IP should be set to 10.0.0.4 (DC-1's private IP address)
+-In Powershell, type in ipconfig /all
+-You should see the DNS servers IP should be set to 10.0.0.4 (DC-1's private IP address)
 </p>
 <br />
 
@@ -420,7 +420,7 @@ You should see the DNS servers IP should be set to 10.0.0.4 (DC-1's private IP a
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Deploying Active Directory Domain Services (AD DS) in Azure involves first preparing the foundational infrastructure. You begin by creating an Azure Virtual Network (VNet) with appropriate IP address ranges and subnets to host your domain controllers. Then, deploy one or more Windows Server virtual machines within this VNet. These VMs will serve as your domain controllers, and each should be assigned a static private IP address to ensure reliable DNS and replication behavior.
 </p>
 <br />
 
