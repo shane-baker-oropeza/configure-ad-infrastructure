@@ -378,27 +378,32 @@ Open PowerShell and run ipconfig /all to confirm that the DNS Server list accura
 <p> 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="956" height="728" alt="Screenshot 2026-01-04 191540" src="https://github.com/user-attachments/assets/eaa772e1-2b0f-45fb-8d4f-f984135db416" />
+
 </p>
 <p>
 
  <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="957" height="422" alt="Screenshot 2026-01-04 191700" src="https://github.com/user-attachments/assets/ba11929e-0a6b-44a6-afdf-c3259c21fd15" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="868" height="595" alt="Screenshot 2026-01-04 191711" src="https://github.com/user-attachments/assets/d1a0047c-b64e-4d87-ba53-53087ccb53f8" />
+
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="825" height="594" alt="Screenshot 2026-01-04 191817" src="https://github.com/user-attachments/assets/89560c08-821d-4228-9450-ba97ea63a35f" />
+
 </p>
 <p>
 
  <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1036" height="871" alt="Screenshot 2026-01-04 191839" src="https://github.com/user-attachments/assets/42b88727-f856-46d3-b1c4-2f264ac1316f" />
+
 </p>
 <p> 
 
