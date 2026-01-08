@@ -32,10 +32,18 @@ We will configure and interconnect two virtual machines, each with distinct role
 <br />
 
 <p>
+<img width="1173" height="837" alt="Screenshot 2026-01-04 183509" src="https://github.com/user-attachments/assets/6371fbe8-8e9c-4ca0-9e97-f05b8f0e2c2d" />
+
+</p>
+
+<p>
 <h3>Step 1: Create a Resource Group: </h3>
+
   
-Create a Resource Group in Microsoft Azure to contain all your lab assets.
-Create a Virtual Network (VNet) and a Subnet to allow communication between your machines.
+•	Create a Resource Group in Microsoft Azure
+
+•	Name it Active-Directory-Lab
+
 </p>
 <br />
 
