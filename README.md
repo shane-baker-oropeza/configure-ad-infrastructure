@@ -19,19 +19,22 @@ This tutorial outlines the implementation of pre-installation of Active Director
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
+- Create a Resource Group that will contain the 2 virtual machines
 - Create Domain controller and separate workstation in Azure
-- Login into Domain controller and Install Active Directory
-- Create a Domain Admin User within the Domain
-- Join client-1 to the domain name (mydomain.com as example)
-- Setup Remote Desktop for non-administrative users on client-1
-- Create additional users in Powershell
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
 <h3>Step 1: Network Infrastructure: </h3>
   
-Create a Resource Group to contain all your lab assets.
+We will configure and interconnect two virtual machines, each with distinct roles. The first virtual machine will be a designated Domain Controller and the second virtual machine will be configured as the Client.
+</p>
+<br />
+
+<p>
+<h3>Step 1: Create a Resource Group: </h3>
+  
+Create a Resource Group in Microsoft Azure to contain all your lab assets.
 Create a Virtual Network (VNet) and a Subnet to allow communication between your machines.
 </p>
 <br />
