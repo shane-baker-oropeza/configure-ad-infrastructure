@@ -73,10 +73,6 @@ We will configure and interconnect two virtual machines, each with distinct role
 </p>
 <br />
 
-
-
-
-
 </p>
 
 <p>
@@ -165,6 +161,25 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 </p>
 <p>
+
+<p>
+  
+**Create a VM for the client machine**
+  
+• Create a new VM
+
+•	Name it Client-1
+
+•	Select the same resource group and Virtual network from the DC-1 VM (Active-Directory-Lab)
+
+•	Select Windows 10 Enterprise as the image
+
+•	Select at least 2 vcpus and 16 GiB memory
+
+•	Create a username and password for your VM Client-1
+
+</p>
+<br />
 
 <p>
 <img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
