@@ -71,7 +71,7 @@ Create 2 VMs (Azure) in the same VNET. One will be a Domain Controller, the othe
 
 •	Select Windows Server 2022 Datacenter: Azure Edition -x64 Gen2 as the Image
 
-•	Size (Standard_D2_v3 - 2 vcpus, 8 GiB memory)
+•	Size (Standard D2s v3 - 2 vcpus, 8 GiB memory)
 
 •	Create a username and password for your VM DC-1
 
