@@ -61,19 +61,14 @@ We will configure and interconnect two virtual machines, each with distinct role
 <img width="767" height="868" alt="Screenshot 2026-01-04 183948" src="https://github.com/user-attachments/assets/5e3686c9-f6a8-46cb-9435-f12bfe2368e9" />
 
 <p>
-<h3>Step 3: Create the Virtual Machines: </h3>
+<h3>Step 3: Create a Virtual Network: </h3>
   
-Create 2 VMs (Azure) in the same VNET. One will be a Domain Controller, the other will be a Client machine
+Create a Virtual Network (VNet) and a Subnet to allow communication between your machines.
 
-•	Create a VM for the Domain Controller on Azure.
+•	Create a Virtual Network
 
-•	Name it DC-1
+•	Name it Active-Directory-Vnet
 
-•	Select Windows Server 2022 Datacenter: Azure Edition -x64 Gen2 as the Image
-
-•	Size (Standard D2s v3 - 2 vcpus, 8 GiB memory)
-
-•	Create a username and password for your VM DC-1
 
 </p>
 <br />
