@@ -63,7 +63,7 @@ We will configure and interconnect two virtual machines, each with distinct role
 <p>
 <h3>Step 3: Create a Virtual Network: </h3>
   
-Create a Virtual Network (VNet) and a Subnet to allow communication between your machines.
+**Create a Virtual Network (VNet) and a Subnet to allow communication between your machines**
 
 •	Create a Virtual Network
 
@@ -105,11 +105,22 @@ Create a Virtual Network (VNet) and a Subnet to allow communication between your
 </p>
 
 <p>
-<h3>Step 2: Domain Controller (DC-1) Setup: </h3>
+<h3>Step 4: Domain Controller (DC-1) Setup: </h3>
   
-Create a Virtual Machine named DC-1 running Windows Server 2022.
-Once created, navigate to the Azure Portal and set the Network Interface (NIC) Private IP address to Static.
-Remote Desktop (RDP) into DC-1 and disable the Windows Firewall to ensure it can respond to connectivity tests.
+**Create two VMs (Azure) in the same VNET. One will be a Domain Controller, the other will be a Client machine**
+
+•	Create a VM for the Domain Controller on Azure.
+
+•	Select Resource Group (Active-Drectory-Lab)
+
+•	Name it DC-1
+
+•	Select Windows Server 2022 Datacenter: Azure Edition -x64 Gen2 as the Image
+
+•	Size (Standard D2s v3 - 2 vcpus, 8 GiB memory)
+
+•	Create a username and password for your VM DC-1
+
 </p>
 <br />
 
