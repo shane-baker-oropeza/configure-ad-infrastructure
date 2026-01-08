@@ -37,7 +37,7 @@ We will configure and interconnect two virtual machines, each with distinct role
 </p>
 
 <p>
-<h3>Step 1: Create a Resource Group: </h3>
+<h3>Step 2: Create a Resource Group: </h3>
 
   
 •	Create a Resource Group in Microsoft Azure
@@ -59,6 +59,28 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 <p>
 <img width="767" height="868" alt="Screenshot 2026-01-04 183948" src="https://github.com/user-attachments/assets/5e3686c9-f6a8-46cb-9435-f12bfe2368e9" />
+
+<p>
+<h3>Step 3: Create the Virtual Machines: </h3>
+  
+Create 2 VMs (Azure) in the same VNET. One will be a Domain Controller, the other will be a Client machine
+
+•	Create a VM for the Domain Controller on Azure.
+
+•	Name it DC-1
+
+•	Select Windows Server 2022 Datacenter: Azure Edition -x64 Gen2 as the Image
+
+•	Size (Standard_D2_v3 - 2 vcpus, 8 GiB memory)
+
+•	Create a username and password for your VM DC-1
+
+</p>
+<br />
+
+
+
+
 
 </p>
 
