@@ -25,6 +25,8 @@ This tutorial outlines the implementation of pre-installation of Active Director
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
+<br />
+  
 <h3>Step 1: Network Infrastructure: </h3>
   
 We will configure and interconnect two virtual machines, each with distinct roles. The first virtual machine will be a designated Domain Controller and the second virtual machine will be configured as the Client.
@@ -37,6 +39,8 @@ We will configure and interconnect two virtual machines, each with distinct role
 </p>
 
 <p>
+<br />
+  
 <h3>Step 2: Create a Resource Group: </h3>
 
   
@@ -61,6 +65,8 @@ We will configure and interconnect two virtual machines, each with distinct role
 <img width="767" height="868" alt="Screenshot 2026-01-04 183948" src="https://github.com/user-attachments/assets/5e3686c9-f6a8-46cb-9435-f12bfe2368e9" />
 
 <p>
+<br />
+  
 <h3>Step 3: Create a Virtual Network: </h3>
   
 **Create a Virtual Network (VNet) and a Subnet to allow communication between your machines**
@@ -101,6 +107,8 @@ We will configure and interconnect two virtual machines, each with distinct role
 </p>
 
 <p>
+<br />
+  
 <h3>Step 4: Domain Controller (DC-1) Setup: </h3>
   
 **Create two VMs (Azure) in the same VNET. One will be a Domain Controller, the other will be a Client machine**
@@ -161,8 +169,7 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 </p>
 <p>
-
-<p>
+<br />
   
 <h3> Create a VM for the client machine</h3>
   
@@ -231,6 +238,7 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 </p>
 <p>
+<br />
   
 <h3>Step 5: Set the Domain Controller's Private IP to static: </h3>
 
@@ -285,6 +293,7 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 </p>
 <p>
+<br />
 
 <h3>Step 6: Login to DC-1 and configure the firewall settings </h3>
 
@@ -312,15 +321,8 @@ We will configure and interconnect two virtual machines, each with distinct role
 •	Turn the Public Profile firewall off
 
 •	You should be left with these settings
-
-
-
-
-
-
-
-
-
+</p>
+<br />
 
 
 <p>
@@ -387,6 +389,7 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 </p>
 <p>
+<br />
   
 <h3>Step 7: Login to Client-1 and ping the Domain Controller (DC-1) </h3>
 
@@ -458,10 +461,9 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 </p>
 <p>
+<br />
 
-<p>
-
-<h3>Step 5: Verify DNS Server: </h3> 
+<h3>Step 8: Verify DNS Server: </h3> 
 
 **The output for the DNS settings should show DC-1's private IP address**
 
@@ -483,6 +485,7 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 </p>
 <p> 
+<br />
 
 Deploying Active Directory Domain Services (AD DS) in Azure involves first preparing the foundational infrastructure. You begin by creating an Azure Virtual Network (VNet) with appropriate IP address ranges and subnets to host your domain controllers. Then, deploy one or more Windows Server virtual machines within this VNet. These VMs will serve as your domain controllers, and each should be assigned a static private IP address to ensure reliable DNS and replication behavior.
 </p>
