@@ -383,108 +383,19 @@ We will configure and interconnect two virtual machines, each with distinct role
 </p>
 
 <p>
-<img width="444" height="607" alt="Screenshot 2026-01-04 190610" src="https://github.com/user-attachments/assets/e775b832-25ae-4586-99d6-31c3a1359318" />
-
-</p>
-<p>
-
-<p>
 <img width="444" height="601" alt="Screenshot 2026-01-04 190618" src="https://github.com/user-attachments/assets/20a0714a-a8af-4cd5-9309-8650159e4552" />
 
 </p>
 <p>
   
-<h3>Step 3: Client Machine (Client-1) Setup: </h3>
+<h3>Step 7: Login to Client-1 and ping the Domain Controller (DC-1) </h3>
   
-Create a Virtual Machine named Client-1 running Windows 10.  Ensure Client-1 is placed in the same region and Virtual Network as DC-1.
-In the Azure Portal, update Client-1’s DNS settings to point directly to DC-1’s Private IP address.  Restart Client-1 from the portal to apply the DNS changes.
-</p>
-<br />
+•	Login to Client-1
 
-<p>
-<img width="1173" height="837" alt="Screenshot 2026-01-04 183509" src="https://github.com/user-attachments/assets/2752b5a3-b320-4fbb-bd42-1cd2a0d540f2" />
+•	Look up Powershell in the search bar
 
-</p>
-<p>
+•	Ping the Domain controller's private IP address (10.0.0.4)
 
-<p>
-<img width="924" height="853" alt="Screenshot 2026-01-04 185256" src="https://github.com/user-attachments/assets/8f4c8cf0-f4f0-4895-a747-b1dff817ada6" />
-
-</p>
-<p>
-
-<p>
-<img width="941" height="855" alt="Screenshot 2026-01-04 185338" src="https://github.com/user-attachments/assets/074c88e4-c047-40f5-9100-6d0635ab6b76" />
-
-</p>
-<p>
-
-<p>
-<img width="871" height="830" alt="Screenshot 2026-01-04 185413" src="https://github.com/user-attachments/assets/4c94d97d-dd24-4d4e-81a1-87f447a53fdc" />
-
-</p>
-<p>
-
-<p>
-<img width="799" height="791" alt="Screenshot 2026-01-04 185430" src="https://github.com/user-attachments/assets/0b1ab03c-18a4-4e1a-9fcf-5037332c5015" />
-
-</p>
-<p>
-
-<p>
-<img width="994" height="854" alt="Screenshot 2026-01-04 185452" src="https://github.com/user-attachments/assets/aeebcd2d-f2a7-4992-bd42-d0f224711aff" />
-
-</p>
-<p>
-
-<p>
-<img width="1252" height="853" alt="Screenshot 2026-01-04 190746" src="https://github.com/user-attachments/assets/c39602b4-aa19-4b76-87f8-4aa4da3de357" />
-
-</p>
-<p>
-
-<p>
-<img width="1169" height="830" alt="Screenshot 2026-01-04 190805" src="https://github.com/user-attachments/assets/f781cbb5-67eb-4bef-ac64-cabe77389815" />
-
-</p>
-<p>
-
-<p>
-<img width="1242" height="836" alt="Screenshot 2026-01-04 190813" src="https://github.com/user-attachments/assets/dd9a4d7d-dd5e-468f-8350-99fcb4d4a28c" />
-
-</p>
-<p> 
-
-<p>
-<img width="1221" height="869" alt="Screenshot 2026-01-04 190839" src="https://github.com/user-attachments/assets/71587f54-e18e-4204-a130-321bb5348744" />
-
-</p>
-<p>  
-
-
-<p>
-<img width="1227" height="800" alt="Screenshot 2026-01-04 190857" src="https://github.com/user-attachments/assets/860898e0-7bf2-4f8b-9f99-234bef35a13b" />
-
-</p>
-<p>  
-
-
-<p>
-<img width="1267" height="690" alt="Screenshot 2026-01-04 190906" src="https://github.com/user-attachments/assets/97db786c-5df1-44d0-bea3-9217e200c379" />
-
-</p>
-<p>  
-
-<p>
-<img width="1268" height="678" alt="Screenshot 2026-01-04 190930" src="https://github.com/user-attachments/assets/2e73c48a-052a-4900-a98b-a05c6f8f9992" />
-
-</p>
-<p> 
-
-<h3>Step 4: Connectivity Verification: </h3> 
-  
-Log into Client-1.  Open a command prompt and ping DC-1’s private IP address to ensure the connection is successful.
-Open PowerShell and run ipconfig /all to confirm that the DNS Server list accurately displays DC-1’s private IP address.
 </p>
 <br />
 
