@@ -188,6 +188,77 @@ We will configure and interconnect two virtual machines, each with distinct role
 <p>
 
 <p>
+<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+
+</p>
+<p>
+
+<p>
+<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+
+</p>
+<p>
+
+<p>
+<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+
+</p>
+<p>
+
+<p>
+<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+
+</p>
+<p>
+
+<p>
+<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+
+</p>
+<p>
+
+<p>
+<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+
+</p>
+<p>
+
+<p>
+<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+<p>
+  
+<h3>Step 5: Set the Domain Controller's Private IP to static: </h3>
+
+**We want the Client-1 machine to join the Domain, so we don't want the IP to change**
+
+  
+• Once the VM has been deployed, proceed to the VM overview page and select "Networking" > network settings on the left side.
+
+•	Select Network Interface Card > IP configurations > ipconfig1 and set Private IP addess allocation to static.
+
+
+</p>
+
+<p>
+<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+
+</p>
+<p>
+
+<p>
 <img width="1267" height="855" alt="Screenshot 2026-01-04 185859" src="https://github.com/user-attachments/assets/d72a9eef-ab13-4bdd-9f4d-16f1e67f412d" />
 
 </p>
