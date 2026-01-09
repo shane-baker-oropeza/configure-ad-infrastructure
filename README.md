@@ -389,8 +389,14 @@ We will configure and interconnect two virtual machines, each with distinct role
 <p>
   
 <h3>Step 7: Login to Client-1 and ping the Domain Controller (DC-1) </h3>
+
+•	Find Client-1's public IP address
+
+•	From your personal computer, remote desktop into Client-1
+
+•	Enter user name and password you created for Client-1
   
-•	Login to Client-1
+•	Verify DC-1's private IP address (10.0.0.4)
 
 •	Look up Powershell in the search bar
 
@@ -455,11 +461,14 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 <p>
 
-<h3>Step 5: Verify DNS Server: </h3>  
-The output for the DNS settings should show DC-1's private IP address
+<h3>Step 5: Verify DNS Server: </h3> 
+
+**The output for the DNS settings should show DC-1's private IP address**
 
 -In Powershell, type in ipconfig /all
+
 -You should see the DNS servers IP should be set to 10.0.0.4 (DC-1's private IP address)
+
 </p>
 <br />
 
