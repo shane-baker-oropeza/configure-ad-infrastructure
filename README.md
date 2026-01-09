@@ -164,7 +164,7 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 <p>
   
-**Create a VM for the client machine**
+<h3> Create a VM for the client machine</h3>
   
 • Create a new VM
 
