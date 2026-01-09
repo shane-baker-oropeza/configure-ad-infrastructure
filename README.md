@@ -286,6 +286,43 @@ We will configure and interconnect two virtual machines, each with distinct role
 </p>
 <p>
 
+<h3>Step 6: Login to DC-1 and configure the firewall settings </h3>
+
+**We're going to configure the firewall settings inside our Domain Controller virtual machine**
+
+
+•	Find DC-1's public IP address
+
+•	From your personal computer, remote desktop into DC-1
+
+•	Enter user name and password you created for DC-1
+
+•	Right click the start menu and click Run
+
+•	Type in wf.msc
+
+•	This will open Windows Defender Firewall with Advanced Security
+
+•	Disable the Firewall settings by going to "Windows Defender Firewall Properties"
+
+•	Turn the Domain Profile firewall off
+
+•	Turn the Private Profile firewall off
+
+•	Turn the Public Profile firewall off
+
+•	You should be left with these settings
+
+
+
+
+
+
+
+
+
+
+
 <p>
 <img width="1215" height="841" alt="Screenshot 2026-01-04 190138" src="https://github.com/user-attachments/assets/5f5e76f8-1480-4284-b405-626f50d67fcd" />
 
@@ -330,12 +367,6 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 <p>
 <img width="458" height="481" alt="Screenshot 2026-01-04 190508" src="https://github.com/user-attachments/assets/20076c6a-d7f0-466b-8cf8-0fa752d6a09b" />
-
-</p>
-<p>
-
-<p>
-<img width="462" height="467" alt="Screenshot 2026-01-04 190526" src="https://github.com/user-attachments/assets/3dc1f58a-32ff-4a8c-bdfb-21addb88da48" />
 
 </p>
 <p>
