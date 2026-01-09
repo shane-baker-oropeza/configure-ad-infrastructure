@@ -174,70 +174,62 @@ We will configure and interconnect two virtual machines, each with distinct role
 
 •	Select Windows 10 Enterprise as the image
 
-•	Select at least 2 vcpus and 16 GiB memory
+•	Select at least 2 vcpus and 8 GiB memory
 
 •	Create a username and password for your VM Client-1
+
+•	Make sure to select box confirming eligible Windows 10/11 license
 
 </p>
 <br />
 
 <p>
-<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+<img width="834" height="812" alt="Screenshot 2026-01-04 184332" src="https://github.com/user-attachments/assets/9b5cffba-0f52-4467-ae07-70db3d2cc478" />
+
 
 </p>
 <p>
 
 <p>
-<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+<img width="1200" height="834" alt="Screenshot 2026-01-04 184407" src="https://github.com/user-attachments/assets/82583699-f3b2-4cc2-a4d4-5efeb23b6d80" />
+
 
 </p>
 <p>
 
 <p>
-<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+<img width="924" height="853" alt="Screenshot 2026-01-04 185256" src="https://github.com/user-attachments/assets/9e5035d4-b859-4202-b634-a35331b811ba" />
+
 
 </p>
 <p>
 
 <p>
-<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+<img width="941" height="855" alt="Screenshot 2026-01-04 185338" src="https://github.com/user-attachments/assets/dbf27f11-a9a0-4ab9-806f-59d784f2ab0f" />
+
 
 </p>
 <p>
 
 <p>
-<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+<img width="871" height="830" alt="Screenshot 2026-01-04 185413" src="https://github.com/user-attachments/assets/a420037c-6cc6-4411-b23a-21ffc1cf7554" />
+
 
 </p>
 <p>
 
 <p>
-<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+<img width="799" height="791" alt="Screenshot 2026-01-04 185430" src="https://github.com/user-attachments/assets/7e289c88-060c-4690-9093-e4b9f07f7541" />
+
 
 </p>
 <p>
 
 <p>
-<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
+<img width="994" height="854" alt="Screenshot 2026-01-04 185452" src="https://github.com/user-attachments/assets/63c2f7c7-6d5a-4257-b683-16756213aa05" />
+
 
 </p>
-<p>
-
-<p>
-<img width="1276" height="612" alt="Screenshot 2026-01-04 185845" src="https://github.com/user-attachments/assets/005e92ae-ea7a-479a-acdf-c9e433168eef" />
-
-</p>
-<p>
-
-
-
-
-
-
-
-
-
-
 <p>
   
 <h3>Step 5: Set the Domain Controller's Private IP to static: </h3>
